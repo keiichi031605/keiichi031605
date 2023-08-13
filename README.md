@@ -9,7 +9,7 @@ I'm a former coffee specialist. My passion is in the global specialty coffee ind
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="500" height="320" />
 
-
+<br />
 🚀 **Languages and Tools:**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /></code>
@@ -27,9 +27,11 @@ I'm a former coffee specialist. My passion is in the global specialty coffee ind
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
 
-
+<br />
+<br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=keiichi031605&show_icons=true&theme=gotham" alt="keiichi031605" />
 
+<br />
 📫 **How to reach me:**
 
 - [Linkedin](https://www.linkedin.com/in/keiichi-katsuno/)
