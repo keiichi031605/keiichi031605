@@ -7,7 +7,7 @@ I'm a former coffee specialist. My passion is in the global specialty coffee ind
 - 👨‍💻 Working on my side project on Ruby on Rails 7 + React.js. Link to [Coffee-App](https://github.com/keiichi031605/coffee-app)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="48%" />
-
+<hr />
 🚀 **Languages and Tools:**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /></code>
