@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a former coffee specialist. My passion is still in the global specialty coffee industry. ☕
+I'm a Ruby on Rails developer. And a former coffee specialist. ☕
 
 <img style="margin-top: 30px;" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="48%" />
 
