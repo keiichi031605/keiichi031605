@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a former coffee specialist. My passion is in the global specialty coffee industry.☕
+I'm a former coffee specialist. My passion is in the global specialty coffee industry. ☕
 
 - 💪 Specializes in **Ruby (Ruby on Rails)** <img height=16 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 - 🌱 I’m currently learning further React.js <img height=16 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
