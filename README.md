@@ -4,7 +4,8 @@
 
 - 🔭 I’m currently working on a project on Ruby on Rails 7 + React.js. Link to [Coffee-App](https://github.com/keiichi031605/coffee-app)
 - 🌱 I’m currently learning React.js
-- 💪 Specializes in Ruby, Ruby on Rails, RSpec, Javascript ES6, React.js, Vue.js, jQuery
+- 💪 Specializes in Ruby, Ruby on Rails, RSpec, Javascript ES6, React.js, Vue.js, PostgreSQL, Stripe, Sidekiq
+- 👨‍💻 Have an experience in Java, Python, C#, jQuery, Next.js, node.js, Firebase, AWS, Heroku
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/keiichi-katsuno/)
 
