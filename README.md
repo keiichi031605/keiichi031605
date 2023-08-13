@@ -8,6 +8,7 @@ I'm a former coffee specialist. My passion is in the global specialty coffee ind
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="48%" />
 <hr />
+
 🚀 **Languages and Tools:**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /></code>
@@ -24,7 +25,7 @@ I'm a former coffee specialist. My passion is in the global specialty coffee ind
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
-<br />
+<hr />
 
 💻 **My Github Stats:**
 
