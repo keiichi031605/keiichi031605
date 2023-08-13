@@ -26,7 +26,8 @@ I'm a former coffee specialist. My passion is in the global specialty coffee ind
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
 <br />
 
-💻**My Github Stats:**
+💻　**My Github Stats:**
+
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=keiichi031605&show_icons=true&theme=gotham" alt="keiichi031605" width="48%" />
 
 
