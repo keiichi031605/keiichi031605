@@ -7,7 +7,7 @@ I'm a Ruby on Rails developer, and a former coffee specialist. ☕
 - 💪 Specializes in **Ruby (Ruby on Rails)** <img height=16 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 - 🌱 Learning further of **React.js** <img height=16 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 - 👨‍💻 Working on my side project of **[Coffee-App](https://github.com/keiichi031605/coffee-app)**
-- <img style="margin-top: 2;" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> Linkedin: [keiichi-katsuno](https://www.linkedin.com/in/keiichi-katsuno/)
+- <img style="margin-top: 4;" height="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> Linkedin: [keiichi-katsuno](https://www.linkedin.com/in/keiichi-katsuno/)
 
 <hr />
 
