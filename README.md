@@ -10,6 +10,7 @@ I'm a former coffee specialist. My passion is in the global specialty coffee ind
 <br />
 
 🚀 **Languages and Tools:**
+
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
@@ -28,6 +29,7 @@ I'm a former coffee specialist. My passion is in the global specialty coffee ind
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=keiichi031605&show_icons=true&theme=gotham" alt="keiichi031605" />
 
 📫 **How to reach me:**
+
 - [Linkedin](https://www.linkedin.com/in/keiichi-katsuno/)
 
 Thanks for visiting!
