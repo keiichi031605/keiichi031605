@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-☕️☕️☕️ I'm a former coffee specialist. My passion is in the global specialty coffee industry. ☕️☕️☕️
+I'm a former coffee specialist. My passion is in the global specialty coffee industry. ☕️
 
-- 🔭 I’m currently working on my hobby projects on Ruby on Rails 7 + React.js. Link to [Coffee-App](https://github.com/keiichi031605/coffee-app)
+- 🔭 I’m currently working on the hobby projects on Ruby on Rails 7 + React.js. Link to [Coffee-App](https://github.com/keiichi031605/coffee-app)
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/keiichi-katsuno/)
+- 💪 Specializes in Ruby, Ruby on Rails, RSpec, Javascript ES6, React.js, Vue.js, jQuery
+
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/keiichi-katsuno/)
 
 Thanks for visiting!
 
