@@ -35,6 +35,7 @@ I'm a Ruby on Rails developer, and a former coffee specialist. ☕
 -->
 
 https://www.linkedin.com/in/keiichi-katsuno/
+
 <br />
 Thanks for visiting!
 
