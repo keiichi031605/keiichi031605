@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning further React.js <img height=16 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 - 👨‍💻 I’m currently working on a project on Ruby on Rails 7 + React.js. Link to [Coffee-App](https://github.com/keiichi031605/coffee-app)
 
+![giphy](https://github.com/keiichi031605/keiichi031605/assets/58890575/0fc33f5a-3293-4d3c-872a-edacae3f9c46)
+
 **languages and tools:**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /></code>
@@ -22,9 +24,6 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
-
-![giphy](https://github.com/keiichi031605/keiichi031605/assets/58890575/0fc33f5a-3293-4d3c-872a-edacae3f9c46)
-
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/keiichi-katsuno/)
 
