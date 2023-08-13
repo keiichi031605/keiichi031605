@@ -33,6 +33,8 @@ I'm a Ruby on Rails developer, and a former coffee specialist. ☕
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=keiichi031605&show_icons=true&theme=gotham" alt="keiichi031605" width="48%" />
 -->
+
+https://www.linkedin.com/in/keiichi-katsuno/
 <br />
 Thanks for visiting!
 
