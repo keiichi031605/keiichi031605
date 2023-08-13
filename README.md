@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Ruby on Rails developer. And a former coffee specialist. ☕
+I'm a Ruby on Rails developer, and a former coffee specialist. ☕
 
 <img style="margin-top: 30px;" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="48%" />
 
