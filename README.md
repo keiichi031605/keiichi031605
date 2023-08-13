@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my hobby projects on Ruby on Rails 7 + React.js. Link to [Coffee-App](https://github.com/keiichi031605/coffee-app)
+- 🌱 I’m currently learning React.js
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/keiichi-katsuno/)
+
 <!--
 **keiichi031605/keiichi031605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
