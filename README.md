@@ -23,7 +23,9 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
 
-📫 **How to reach me:** [Linkedin](https://www.linkedin.com/in/keiichi-katsuno/)
+📫 **How to reach me:**
+
+- [Linkedin](https://www.linkedin.com/in/keiichi-katsuno/)
 
 Thanks for visiting!
 
