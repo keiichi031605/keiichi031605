@@ -5,6 +5,7 @@ I'm a former coffee specialist. My passion is in the global specialty coffee ind
 - 💪 Specializes in **Ruby (Ruby on Rails)** <img height=16 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 - 🌱 Learning further React.js <img height=16 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 - 👨‍💻 Working on my side project on Ruby on Rails 7 + React.js. Link to [Coffee-App](https://github.com/keiichi031605/coffee-app)
+- [Linkedin](https://www.linkedin.com/in/keiichi-katsuno/)
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="500" height="320" />
 <br />
@@ -28,9 +29,6 @@ I'm a former coffee specialist. My passion is in the global specialty coffee ind
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=keiichi031605&show_icons=true&theme=gotham" alt="keiichi031605" />
 
-📫 **How to reach me:**
-
-- [Linkedin](https://www.linkedin.com/in/keiichi-katsuno/)
 
 Thanks for visiting!
 
