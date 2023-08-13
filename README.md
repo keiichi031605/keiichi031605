@@ -29,7 +29,7 @@ I'm a former coffee specialist. My passion is in the global specialty coffee ind
 
 💻 **My Github Stats:**
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=keiichi031605&show_icons=true&theme=gotham" alt="keiichi031605" width="48%" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=keiichi031605&show=reviews&show_icons=true&theme=gotham" alt="keiichi031605" width="48%" />
 
 
 Thanks for visiting!
