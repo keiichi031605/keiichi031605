@@ -5,7 +5,7 @@ I'm a Ruby on Rails developer, and a former coffee specialist. ☕
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="48%" />
 
 - I'm specializing in **Ruby (Ruby on Rails)** <img height=16 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-- Currently, I'm learning further of **Kotlin Ktor and Exposed** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+- Currently, I'm learning further of **Kotlin Ktor and Exposed** <img height=16 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 - My side project: **[Coffee-App](https://github.com/keiichi031605/coffee-app)**
 - Linkedin: [keiichi-katsuno](https://www.linkedin.com/in/keiichi-katsuno/)
 
