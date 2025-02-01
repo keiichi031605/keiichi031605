@@ -29,12 +29,8 @@ I'm a back-end-focused software engineer passionate about crafting web-based sol
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /></code> 
 
 
-<hr />
-
 <!--
 💻 **My Github Stats:**
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=keiichi031605&show_icons=true&theme=gotham" alt="keiichi031605" width="48%" />
 -->
-
-<br />
